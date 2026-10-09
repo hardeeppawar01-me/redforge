@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env
+.venv/
+
+# Test and coverage artifacts
+.coverage
+htmlcov/
+
+# Generated assessment reports
+reports/*.html
+reports/*.json
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
